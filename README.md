@@ -1,2 +1,2 @@
 # Data-analysis-dashboard
-The Process involved several stages including data cleaning and data visualization
+I developed a comprehensive Powerbi dashboard.The Process involved several stages including data cleaning and data visualization
